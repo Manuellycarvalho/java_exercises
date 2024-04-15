@@ -1,0 +1,5 @@
+Nome: Idade: 0
+Nome: ManuellyIdade: 0
+Nome: Fátima, Idade: 63
+Nome: Manuellt, Idade: 20
+Nome: Manuelly, Idade: 15
